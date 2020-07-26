@@ -17,7 +17,7 @@ docker run -t --rm -p 8501:8501 \
 ## Documentation
 ### Install Set
 ```bash
-pip3 install -r requirements.txt python setup.py
+pip3 install -r requirements.txt 
 ```
 
 
